@@ -1,4 +1,4 @@
-# DemoPaint-j5.js
+# DemoPaint-p5.js
 Mini demo de un Paint realizado con Javascript j5
 # Libreria
 Javascript p5.js --> https://p5js.org/
@@ -14,4 +14,4 @@ El repositorio consta de:
 
 # Resultado final
 
-![alt text](https://github.com/Crisyaki/DemoPaint-j5.js/blob/master/DemoPaint.gif)
+![alt text](https://github.com/Crisyaki/DemoPaint-p5.js/blob/master/DemoPaint.gif)
